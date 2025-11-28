@@ -1,7 +1,7 @@
 git pull
 
 git add .
-git commit -m "save: desktop"
+git commit -m "feat: 숫자야구1트 완료 리뷰진행하고 리팩터링 진행"
 git push
 
 
