@@ -1,7 +1,7 @@
 git pull
 
 git add .
-git commit -m "save: desktop"
+git commit -m "docs: 리드미 요구사항명세서 수정"
 git push
 
 
@@ -15,4 +15,3 @@ git push
 | **docs:**     | 문서 수정 (README 등)      |
 | **style:**    | 코드 포맷팅, 세미콜론 등 비기능 변경 |
 | **chore:**    | 빌드나 설정 관련 변경          |
-| **save:**    | 빌드나 설정 관련 변경          |
